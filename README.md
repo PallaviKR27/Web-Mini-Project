@@ -5,3 +5,5 @@ activities such as booking a courier, maintain hub details, maintain company det
 data of companies and many other things. CMS is programmed using Java technologies. CMS
 can be customized to fit your business and can either be used as a complete system or as separate
 modules.
+PALLAVI K R-1CE17CS076
+RASHMIKA C P-1CE17CS095
